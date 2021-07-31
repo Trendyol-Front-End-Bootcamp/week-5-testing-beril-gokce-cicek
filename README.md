@@ -14,7 +14,7 @@
 
 `yarn test --coverage`
 
-![test results](src/img/test-results.png)
+![test results](src/img/test-results.PNG)
 
 # Getting Started with Create React App
 
