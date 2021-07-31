@@ -1,14 +1,17 @@
 # Assignment of the 3rd question in the Workshop
 
 ## Assignment
+
 - A function that returns the post titles of the user who has the most posts and unit test of the function. 
 - The API to be used is https://jsonplaceholder.typicode.com/posts 
 
 ## Contributors
+
 - [Beril Gökçe Çiçek](https://github.com/gokcecicek)
 - [Recai Koray İzlimek](https://github.com/korayizlimek) 
 
 ## Test Results
+
 `yarn test --coverage`
 
 ![test results](src/img/test-results.png)
